@@ -6,6 +6,8 @@ This is just a showcase; the source code will be attached at a later date.
 
 The textures used in the application were found online and have simply been used for the development process.
 
+You can try the application on a Windows device by downloading it from [Releases](https://github.com/PizzaKarim/files/releases).
+
 ## Images
 
 <img src="https://i.imgur.com/MEyhyE2.png" width="400" alt="drives">
