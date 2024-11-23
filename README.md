@@ -1,6 +1,6 @@
 # Files
 
-A small file explorer that I've been building for a couple of days. It is just a project I made for fun in my spare time.
+A small file explorer that I've been building for a couple of days for fun during my spare time.
 
 This is just a showcase; the source code will be attached at a later date.
 
