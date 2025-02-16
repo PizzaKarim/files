@@ -2,11 +2,11 @@
 
 A small file explorer that I've been building for a couple of days for fun during my spare time.
 
-This is just a showcase; the source code will be attached at a later date.
-
 The textures used in the application were found online and have simply been used for the development process.
 
 You can try the application on a Windows device by downloading it from [Releases](https://github.com/PizzaKarim/files/releases).
+
+Note: The project is far from done, and to be honest, I'd probably want to rewrite it at some point.
 
 ## Images
 
